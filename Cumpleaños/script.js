@@ -4,6 +4,9 @@
     (hoy.getMonth() + 1) + '-' + (hoy.getDate() < 10 ? ('0' + (hoy.getDate() - 1)) : (hoy.getDate() - 1))
 })()
 
+/**
+ * Calcula el número de días hasta tu próximo cumpleaños y tu edad actual
+ */
 function calcularDias(){
     let hoy = new Date()
     let cumple = new Date(document.getElementById('cumple').value)

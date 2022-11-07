@@ -1,3 +1,5 @@
+/* 
+Establecer el color de fondo de todos los elementos en bisque.*/
 *{
     background-color: bisque;
 }
