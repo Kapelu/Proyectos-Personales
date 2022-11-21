@@ -2,5 +2,5 @@
 
 # Bootcamp de Henry
 
-* [Fecha de Cumpleaños](https://kapelu-happy-birthday.vercel.app/)
-* [ToDo List](https://kapelu-to-do-list.vercel.app/)
+* [Fecha de Cumpleaños](https://happy-birthday-kapelu.vercel.app//)
+* [ToDo List](https://todolist-kapelu.vercel.app/)
